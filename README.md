@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dadale-d
-- 👀 I’m interested in how to use diffusion model upgrade the workflow in stylization based on CGI, and some AR/VR/MR things(interested recently), and a huge fan of The backrooms and some liminal space, weirdcore&dreamcore.
-- 🌱 I’m currently learning Digital Media Art in School of design and innovation on CAA, and dedicated on future medium and augmented reality
-- 💞️ I’m looking to collaborate on programming on AR applications with programmer(cuz I can't do it my own, only read some)
+- 👋 Hi, I’m @dadale-d, based on Beijing/Hangzhou, China
+- 👀 I’m interested in AIGC workflow and I am a huge fan of  Web 3.0.
+- 🌱 I currently learning Digital Media Art in School of design and innovation on CAA. I am dedicated on the future medium and augmented reality. Hope I will be a menber of DAO in the future.
+- 💞️ I’m looking to collaborate on programming on AR applications with programmer
 - 📫 How to reach me: Twitter @_Dujy_    Instagram @dadale.arrrt
 
 <!---
